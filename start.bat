@@ -1,0 +1,3 @@
+python insta.py
+
+pause
